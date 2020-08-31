@@ -1,0 +1,99 @@
+/*desafio cards*/
+
+body{
+    font-family: Tahoma;
+}
+.content{
+    overflow-x: auto;
+    display: flex;
+    padding: 1%;
+    margin: 0px;
+    
+}
+.card{
+    padding: 0%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 350px;
+    height: 475px;
+    margin: 30px;
+    border-radius: 1%;
+    background: white;
+    box-shadow:  0px 10px 20px rgb(3, 3, 85);
+}
+.card2{
+    padding: 0%;
+    margin: 30px;
+    border-radius: 1%;
+    background: white;
+    box-shadow: 0px 10px 20px rgb(3, 3, 85);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 350px;
+    height: 475px;
+}
+.card3{
+    padding: 0%;
+    margin: 30px;
+    border-radius: 1%;
+    background: white;
+    box-shadow:  0px 10px 20px rgb(3, 3, 85);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 350px;
+    height: 475px;
+}
+.mediacard{
+    background: url("https://cultetc.com/wp-content/uploads/2018/03/capa01.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediacard2{
+    background: url("https://gospelmusicas.files.wordpress.com/2011/11/10611.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.mediacard3{
+    background: url("https://roadie-metal.com/wp-content/uploads/2016/04/sabaton.jpg") center/cover;
+    height: 200px;
+    width: 100%;
+}
+.topcard{
+    margin-top: 2px;
+    padding: 2px;
+    padding-top: 0px;
+}
+.topcard2{
+    margin-top: 2px;
+    padding: 2px;
+    padding-top: 0px;
+}
+.topcard3{
+    margin-top: 2px;
+    padding: 2px;
+    padding-top: 0px;
+}
+.bottoCard{
+    padding: 20px;
+}
+.actions{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: black;
+    color:white;
+}
+.actions2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+.actions3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
